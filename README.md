@@ -41,7 +41,7 @@ When you first enter this screen, the words will not show up until you hit the "
 If you want to pause or unpause, you can click the "Pause / Unpause" button. The word on top will not change while paused.
 If you want to exit this screen, click the "Exit" button or click the X in the top right corner.
 
-Both these screens can be resized to your desired size. The first screen cannot be used while the second screen is available.
+Both these screens can be resized by expanding the edges. The first screen cannot be used while the second screen is open.
 
 
 ## Sources Used
