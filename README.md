@@ -22,26 +22,26 @@ Download the "speed_reader_release_ver" folder and run the "speed_reader.exe" fi
 ![image](https://user-images.githubusercontent.com/35979646/121389961-e9932780-c91a-11eb-9928-b640860767bf.png)
 
 ### First screen: Main Window
-You type in text into the middle text box or import text into it using the "Choose File" button. 
-Only .txt files are supported for importing because Qt functions give unexpected behavior when extracting text from other formats.
-When you are done editing the text, then you hit the "Continue" button to go to the reading screen.
-If you want to end the program, you can either click the "Exit" button or X in the top right corner. 
-The first row of buttons on the bottom are for modifying the text box. You can undo and redo the text or you can clear the whole box using the corresponding buttons. 
-In the taskbar, there's a "File" tab with the options "Open" and "Exit" which allow you to choose a file to import from or exit the application respectively and work the same as their button variants.
+You type in text into the middle text box or import text into it using the "Choose File" button.  
+Only .txt files are supported for importing because Qt functions give unexpected behavior when extracting text from other formats.  
+When you are done editing the text, then you hit the "Continue" button to go to the reading screen.  
+If you want to end the program, you can either click the "Exit" button or X in the top right corner.  
+The first row of buttons on the bottom are for modifying the text box. You can undo and redo the text or you can clear the whole box using the corresponding buttons.  
+In the taskbar, there's a "File" tab with the options "Open" and "Exit" which allow you to choose a file to import from or exit the application respectively and work the same as their button variants.  
 
 ### Second screen: Speed Read Window
-The top half of the screen is where the text is displayed. 
-Under that is a progress bar which says how much of the text has been read and it updates after every word.
-Above the buttons is a spin box where you can set the speed of the text in words per minute. 
-The default is 200 because I read that that was the average reading speed of normal text. 
-That might feel slow when the words are being flashed on the screen because our brains process words faster if it's only 1 word at a time.
-1 is the slowest text speed, 10000 is the highest words per minute. The higher the number, the faster the words go by.
-You can change the font size of the text using the "- Font Size" and "+ Font Size" buttons which change the size by intervals of 10. The starting size is 48.
-When you first enter this screen, the words will not show up until you hit the "Start / Restart" button. That will start showing words at the top from the beginning of the inputted text.
-If you want to pause or unpause, you can click the "Pause / Unpause" button. The word on top will not change while paused.
-If you want to exit this screen, click the "Exit" button or click the X in the top right corner.
+The top half of the screen is where the text is displayed.  
+Under that is a progress bar which says how much of the text has been read and it updates after every word.  
+Above the buttons is a spin box where you can set the speed of the text in words per minute.  
+The default is 200 because I read that that was the average reading speed of normal text.  
+That might feel slow when the words are being flashed on the screen because our brains process words faster if it's only 1 word at a time.  
+1 is the slowest text speed, 10000 is the highest words per minute. The higher the number, the faster the words go by.  
+You can change the font size of the text using the "- Font Size" and "+ Font Size" buttons which change the size by intervals of 10. The starting size is 48.  
+When you first enter this screen, the words will not show up until you hit the "Start / Restart" button. That will start showing words at the top from the beginning of the inputted text.  
+If you want to pause or unpause, you can click the "Pause / Unpause" button. The word on top will not change while paused.  
+If you want to exit this screen, click the "Exit" button or click the X in the top right corner.  
 
-Both these screens can be resized by expanding the edges. The first screen cannot be used while the second screen is open.
+Both these screens can be resized by expanding the edges. The first screen cannot be used while the second screen is open.  
 
 
 ## Sources Used
